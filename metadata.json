@@ -1,0 +1,13 @@
+{
+  "name": "AI Prompt Deconstructor",
+  "description": "Uma ferramenta de IA para desconstruir prompts e revelar as técnicas de processamento por trás deles.",
+  "version": "1.1.0",
+  "tags": [
+    "ai",
+    "gemini",
+    "prompt-engineering",
+    "react",
+    "pt-br"
+  ],
+  "requestFramePermissions": []
+}
